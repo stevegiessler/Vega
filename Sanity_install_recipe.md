@@ -1,6 +1,6 @@
 # Spin up RHEL 7.4 VM
 # Install updates
-yum -y updates
+yum -y update
 
 # Install xauth-tools
 yum -y install xorg-x11-xauth
